@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!👋,<br>I'm K Varun Chandra, a passionate software developer specializing in full-stack web development and machine learning. <br>Currently, I'm pursuing my M.Tech in Computer Science & Engineering at Pondicherry University and have completed my B.Tech from IIIT Trichy.<br>I have experience in React, Node.js, MongoDB, Express.js, and Tailwind CSS for web development, along with TensorFlow, Pandas, and NumPy for machine learning. <br>My projects range from building dynamic portfolio generators to AI-powered skin disease detection systems.<br>I'm always eager to learn, build, and contribute to exciting tech projects. Let's connect and collaborate! 🚀<br>
+Hi!👋,<br>I'm **K Varun Chandra**, a passionate software developer specializing in full-stack web development and machine learning. <br>Currently, I'm pursuing my M.Tech in Computer Science & Engineering at Pondicherry University and have completed my B.Tech from IIIT Trichy.<br>I have experience in React, Node.js, MongoDB, Express.js, and Tailwind CSS for web development, along with TensorFlow, Pandas, and NumPy for machine learning. <br>My projects range from building dynamic portfolio generators to AI-powered skin disease detection systems.<br>I'm always eager to learn, build, and contribute to exciting tech projects. Let's connect and collaborate! 🚀<br>
 
 
 ## 🌐 Socials:

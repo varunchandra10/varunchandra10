@@ -64,15 +64,8 @@ Let’s build something awesome together! 🚀
 # GitHub Analytics:
 
 ### **Overall Stats**
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=varunchandra10&theme=dark&hide_border=false&show_icons=true)
-
-
-### **Most Used Languages**
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunchandra10&theme=dark&layout=compact&hide_border=false)
-
-
-### **GitHub Streak**
-![Streak](https://streak-stats.demolab.com/?user=varunchandra10&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=varunchandra10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunchandra10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### **Contribution Insights**

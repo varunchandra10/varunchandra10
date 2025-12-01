@@ -12,15 +12,14 @@ Let’s build something awesome together! 🚀
 
 ---
 
-## 🌐 **Connect With Me**
+## **Connect With Me**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/varun.chandra.19?igsh=MXhtM29sZzNqMno5ZQ%3D%3D&utm_source=qr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-chandra-809b97282/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:24mtcsepy0018@pondiuni.ac.in)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kola-varun-chandra-702137391/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kvarunchandra19@gmail.com)
 
 ---
 
-# 💻 **Tech Stack**
+# **Tech Stack**
 
 ### **Languages**
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,16 +61,19 @@ Let’s build something awesome together! 🚀
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics:
 
 ### **Overall Stats**
-![Stats](https://github-readme-stats.vercel.app/api?username=varunchandra10&theme=dark&hide_border=false&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=varunchandra10&theme=dark&hide_border=false&show_icons=true)
+
 
 ### **Most Used Languages**
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunchandra10&theme=dark&layout=compact)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunchandra10&theme=dark&layout=compact&hide_border=false)
+
 
 ### **GitHub Streak**
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunchandra10&theme=dark&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=varunchandra10&theme=dark&hide_border=false)
+
 
 ### **Contribution Insights**
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=varunchandra10&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -84,8 +86,8 @@ Let’s build something awesome together! 🚀
 
 ---
 
-## 🔢 Profile Visitors
-![Visitors](https://visitcount.itsvg.in/api?id=varunchandra10&icon=0&color=0)
+## Profile Visitors
+![Visitors](https://komarev.com/ghpvc/?username=varunchandra10&color=blue)
 
 ---
 
